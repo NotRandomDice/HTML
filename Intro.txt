@@ -1,0 +1,11 @@
+Icon http://passdamicmagazine.com/images/logo.png
+Link http://passdamic.com/
+Code <link href="file:///C:/Users/Dice/Documents/Programs/Files/HTML/testicon.ico" rel="shortcut icon">
+
+playstore <IMG STYLE="position:absolute; TOP:35px; LEFT:170px; WIDTH:50px; HEIGHT:50px" SRC="circle.gif">
+
+<img src="https://mlsvc01-prod.s3.amazonaws.com/7e69fcc9001/3769a535-7b20-4f0a-ba3d-471f24c61c9d.png" alt="Playstore" href="https://appsto.re/us/WsAPib.i" style="position:absolute; TOP:560px; LEFT:1172px; WIDTH:150px; HEIGHT:50px">
+
+facebook https://www.facebook.com/rsrc.php/yl/r/H3nktOa7ZMg.ico
+
+facebook 2 http://3.bp.blogspot.com/-bUzV91_2_AA/VFxWhKFhRmI/AAAAAAAAFOE/QOf_ZPFGAdA/s1600/facebook-logo.png
